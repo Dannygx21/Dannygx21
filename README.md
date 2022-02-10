@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **system design**
+- 🤝 I’m looking for help with **systems design**
 
 - 💬 Ask me about **React, React Hooks, Node.js, Socket.io**
 
