@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WakeMe](https://github.com/Dannygx21/WakeMe)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript & Python**
 
 - 👯 I’m looking to collaborate on **anything**
 
