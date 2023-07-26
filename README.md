@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannygx21" alt="dannygx21" /></a> </p>
 
-- 🔭 I’m currently working on [WakeMe](https://github.com/Dannygx21/WakeMe)
+- 🔭 I’m currently working on My Portfolio Website
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Tmux and .NET**
 
 - 👯 I’m looking to collaborate on **anything**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **danielgonzalezm21@gmail.com**
 
-- ⚡ Fun fact **I do my own oil changes**
+- ⚡ Fun fact **I work for the DoD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
