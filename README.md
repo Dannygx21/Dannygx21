@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Gonzalez</h1>
-<h3 align="center">Full stack developer excited to create and learn.</h3>
+<h3 align="center">Software Engineer excited to create and learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygx21&label=Profile%20views&color=0e75b6&style=flat" alt="dannygx21" /> </p>
 
