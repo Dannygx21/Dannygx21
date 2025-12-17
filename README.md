@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Gonzalez</h1>
-<h3 align="center">Software Engineer excited to create and learn.</h3>
+<h3 align="center">Software Engineer excited to create and learn. Currently working at SAIC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygx21&label=Profile%20views&color=0e75b6&style=flat" alt="dannygx21" /> </p>
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-gonzalezmoreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-gonzalezmoreno" height="30" width="40" /></a>
-<a href="https://instagram.com/dannydosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannydosx" height="30" width="40" /></a>
+<a href="https://instagram.com/danny_gonzalez_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannydosx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
