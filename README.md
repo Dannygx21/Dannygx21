@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygx21&label=Profile%20views&color=0e75b6&style=flat" alt="dannygx21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannygx21" alt="dannygx21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannygx21" alt="dannygx21" /></a> </p>
 
 - 🔭 I’m currently working on My Portfolio Website
 
-- 🌱 I’m currently learning **Tmux and .NET**
+- 🌱 I’m currently learning **.NET**
 
 - 👯 I’m looking to collaborate on **anything**
 
