@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **full stack applications**
 
 - 🤝 I’m looking for help with **system design**
 
